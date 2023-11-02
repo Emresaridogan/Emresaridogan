@@ -13,7 +13,7 @@
 <img src="https://github.com/vimalverma558/vimalverma558/raw/v2/img/icons8-flutter.svg" width="50px" style="max-width: 100%;">
 <img src="img/emresaridogan-java.svg" width="50px" style="max-width: 100%;">
 <img src="img/emresaridogan-python.svg" width="50px" style="max-width: 100%;">
-<img src="img/emresaridogan-c-sharp-logo.svg" width="50px" style="max-width: 100%;">
+<img src="img/emresaridogan-c-sharp-logo.svg" width="50px" style="max-width: 100%;"><img
 src="https://github.com/vimalverma558/vimalverma558/raw/v2/img/icons8-nodejs.svg" width="50px" style="max-width: 100%;"><img src="https://github.com/vimalverma558/vimalverma558/raw/v2/img/icons8-mongodb.svg" width="50px" style="max-width: 100%;"><img src="https://github.com/vimalverma558/vimalverma558/raw/v2/img/icons8-firebase.svg" width="50px" style="max-width: 100%;"><img src="https://github.com/vimalverma558/vimalverma558/raw/v2/img/icons8-git.svg" width="50px" style="max-width: 100%;">
 <img src="img/emresaridogan-microsoft-sql-server.svg" width="50px" style="max-width: 100%;">
 <img src="https://github.com/vimalverma558/vimalverma558/raw/v2/img/icons8-github.svg" width="50px" style="max-width: 100%;">
